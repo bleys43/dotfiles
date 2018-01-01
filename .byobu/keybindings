@@ -1,0 +1,5 @@
+source $BYOBU_PREFIX/share/byobu/keybindings/common
+caption splitonly ''
+escape "^Aa"
+register x "^A"
+bindkey "^A"
