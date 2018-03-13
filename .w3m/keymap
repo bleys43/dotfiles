@@ -1,0 +1,11 @@
+keymap  X    DISPLAY_IMAGE
+keymap  C-c  STOP_IMAGE
+keymap  |    SET_OPTION  display_image=toggle
+keymap s  MOVE_RIGHT
+keymap t  MOVE_DOWN
+keymap n  MOVE_UP
+keymap l  SELECT_MENU
+keymap T UP
+keymap N DOWN
+keymap k TAB_GOTO
+keymap j NEW_TAB
